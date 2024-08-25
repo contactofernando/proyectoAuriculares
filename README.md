@@ -5,5 +5,5 @@ utilizar diferentes formatos de archivo para optimizar la carga y el rendimiento
 de manera eficiente para mejorar la experiencia del usuario.
 El formato de imagen variará y se cargará depende del dispositivo del cual ingreses!
 
-Enlacec al proyecto:
+Enlace al proyecto:
 https://sitioauricularesfernandosaucedo.netlify.app/
